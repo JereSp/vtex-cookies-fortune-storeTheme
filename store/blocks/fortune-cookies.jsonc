@@ -1,0 +1,5 @@
+{
+  "store.custom#fortune-cookies": {
+    "children": ["my-cookie-block"]
+  }
+}
