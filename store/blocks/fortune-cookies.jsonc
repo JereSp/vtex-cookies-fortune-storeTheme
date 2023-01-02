@@ -1,5 +1,11 @@
 {
   "store.custom#fortune-cookies": {
-    "children": ["my-cookie-block"]
+    "children": ["image#landing", "my-cookie-block"]
+  },
+  "image#landing": {
+    "props": {
+      "src": "assets/fortune-cookies.png",
+      "blockClass": "landing"
+    }
   }
 }
